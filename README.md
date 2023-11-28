@@ -28,11 +28,13 @@ Hi, I'm Maks Drahun
 
 <br/>
 <summary><b>⚡ My Stats</b></summary>
-<br/>
-<a href="https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7"><img src="https://wakatime.com/badge/user/018bd4e6-fcef-4a92-959f-42ba4ce792a7.svg" alt="Total time coded since Nov 15 2023" /></a>
-<br/>
 
-<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/75314c5c-f01b-494f-8cd9-3afd70d8271c.svg"></img>
+<br/>
+<a href="https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7">
+<img src="https://wakatime.com/badge/user/018bd4e6-fcef-4a92-959f-42ba4ce792a7.svg" alt="Total time coded since Nov 15 2023" /></a>
+<br/>
+<br/>
+<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/0e8a0a0a-4250-4c0d-a6e7-a9a48d7715a1.svg"></img>
 <br/>
 
 <summary><b>⚡ Top Languages</b></summary>

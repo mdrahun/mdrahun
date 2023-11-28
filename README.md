@@ -37,7 +37,7 @@ Hi, I'm Maks Drahun
 
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
-<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/93f1f998-8fb5-4739-b516-a9d30f308aef.svg"></img>
+<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/12d01c41-9bdc-4595-a753-bff91e0ffb88.svg"></img>
 <br/>
 
 

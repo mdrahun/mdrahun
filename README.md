@@ -10,7 +10,7 @@ Hi, I'm Maks Drahun
 <hr>
 
 <pre>
-💻 I am Senior Java Developer
+💻 I am Senior Java Engineer
 📚 I have a Master's degree in Information Security
 🔭 I have more than 15 years of experience in the IT sphere
 🌟 Main language: Java

@@ -51,14 +51,12 @@ Hi, I'm Maks Drahun
     <a href="https://github.com/mdrahun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
-
 <p>
     <a href="https://github.com/mdrahun"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?style=for-the-badge&logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/mdrahun"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-%20Framework%6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
-
 <p>
     <a href="https://github.com/mdrahun"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://github.com/mdrahun"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
@@ -70,7 +68,6 @@ Hi, I'm Maks Drahun
 </p>
 
 ### 💻 Software and Tools
-
 <p>
     <a href="https://github.com/mdrahun"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="https://github.com/mdrahun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>

@@ -16,7 +16,7 @@ Hi, I'm Maks Drahun
 🌟 Main language: Java
 🚩 Interested in Fintech and Banking Application development
 </pre>
-<hr>
+<hr> 
 
 ## 🤝 Connect with me
 
@@ -42,7 +42,6 @@ Hi, I'm Maks Drahun
 <img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/12d01c41-9bdc-4595-a753-bff91e0ffb88.svg"></img>
 <br/>
 
-Totally: <sub><sub><sub>[![wakatime](https://wakatime.com/badge/user/018bd4e6-fcef-4a92-959f-42ba4ce792a7.svg)](https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7)</sub></sub></sub> &nbsp; | &nbsp; Last year:
 
 [![MaksDrahun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018bd4e6-fcef-4a92-959f-42ba4ce792a7&layout=compact&langs_count=16&theme=github_light&hide_title=true)](https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7)
 

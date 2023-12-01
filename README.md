@@ -43,7 +43,7 @@ Hi, I'm Maks Drahun
 <br/>
 
 
-[![MaksDrahun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018bd4e6-fcef-4a92-959f-42ba4ce792a7&layout=compact&langs_count=16&theme=github_light&hide_title=true)](https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7)
+[![MaksDrahun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018bd4e6-fcef-4a92-959f-42ba4ce792a7&layout=compact&langs_count=16&theme=github_light&show_icons=true&line_height=50)](https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7)
 
 
 

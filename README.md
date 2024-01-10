@@ -10,8 +10,8 @@ Hi, I'm Maks Drahun
 <hr>
 
 <pre>
-💻 I am Senior Java Engineer
-📚 I have a Master's degree in Information Security
+💻 I am a Senior Java Engineer
+📚 I have a Ьaster's degree in Сomputer Science, majoring in Шnformation security 
 🔭 I have more than 15 years of experience in the IT sphere
 🌟 Main language: Java
 🚩 Interested in Fintech and Banking Application development

@@ -3,17 +3,18 @@ Hi, I'm Maks Drahun
 	<a href="https://github.com/mdrahun" target="_self">	</a>
 </h1>
 <h2><p align="center">
-	Senior Java Engineer
+	Senior Software Engineer
 </p>
 </h2>
 
 <hr>
 
 <pre>
-💻 I am a Senior Java Engineer
+💻 I am a Senior Software Engineer
 📚 I have a Ьaster's degree in Сomputer Science, majoring in Information security 
-🔭 I have more than 15 years of experience in the IT sphere
+🔭 I have more than 15 years of experience in the IT sphere and more than 8 in programming
 🌟 Main language: Java
+🌟 Secondary language: Python
 🚩 Interested in Fintech and Banking Application development
 </pre>
 <hr> 

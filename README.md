@@ -12,7 +12,7 @@ Hi, I'm Maks Drahun
 <pre>
 💻 I am a Senior Software Engineer
 📚 I have a Master's degree in Сomputer Science, majoring in Information Security 
-🔭 I have more than 15 years of experience in the IT sphere and over 8 years in software development
+🔭 I have more than 15 years of experience in the IT sphere and over 9 years in software development
 🌟 Main language: Java
 🌟 Secondary language: Python
 🚩 Specialized in Fintech and Banking Application Development, with expertise in backend systems, high-load applications, and information security
@@ -96,7 +96,6 @@ Hi, I'm Maks Drahun
 ### 💻 Software and Tools
 <p>
     <a href="https://github.com/mdrahun"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-    <a href="https://github.com/mdrahun"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"></a> 
     <a href="https://github.com/mdrahun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="https://github.com/mdrahun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/mdrahun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>

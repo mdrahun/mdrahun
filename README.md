@@ -27,22 +27,6 @@ Hi, I'm Maks Drahun
 	<a href="https://github.com/mdrahun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<br/>
-<summary><b>⚡ My Stats</b></summary>
-
-<br/>
-<a href="https://wakatime.com/@018bd4e6-fcef-4a92-959f-42ba4ce792a7">
-<img src="https://wakatime.com/badge/user/018bd4e6-fcef-4a92-959f-42ba4ce792a7.svg" alt="Total time coded since Nov 15 2023" /></a>
-<br/>
-<br/>
-<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/0e8a0a0a-4250-4c0d-a6e7-a9a48d7715a1.svg"></img>
-<br/>
-
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-<img src="https://wakatime.com/share/@018bd4e6-fcef-4a92-959f-42ba4ce792a7/12d01c41-9bdc-4595-a753-bff91e0ffb88.svg"></img>
-<br/>
-
 
 ## 🛠️ My Favorite Tools
 ### 👨‍💻 Programming Languages
